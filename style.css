@@ -1,0 +1,35 @@
+body {
+    background-color:#383c3c;
+
+}
+
+#title {
+    color: whitesmoke;
+    font: bold;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+#start {
+    color: blueviolet;
+}
+
+.para {
+    font-size: 25px;
+    color: azure;
+}
+
+img {
+    height: 128px;
+    width: 128px;
+}
+
+.join {
+    background-color: #5865f2;
+    color: whitesmoke;
+    height: 55px;
+    width: 500px;
+    font-size: 25px;
+    font-family: fantasy;
+    word-spacing: 4.5px;
+}
